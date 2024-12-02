@@ -104,7 +104,7 @@ h1 {
 }
 
 /* Formulario */
-.contact-form {
+.contact {
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
@@ -113,8 +113,8 @@ h1 {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.contact-form input,
-.contact-form button {
+.contact input,
+.contact button {
     display: block;
     width: 100%;
     padding: 10px;
@@ -123,13 +123,13 @@ h1 {
     border: 1px solid #ccc;
 }
 
-.contact-form button {
+.contact button {
     background-color: #27ae60;
     color: white;
     border: none;
     cursor: pointer;
 }
 
-.contact-form button:hover {
+.contact button:hover {
     background-color: #2ecc71;
 }
